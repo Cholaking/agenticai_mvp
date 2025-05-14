@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46bf4b06-645c-461e-ace6-30a4ec282e7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/agentic_mvp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/data_agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/knowledge_agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/reasoning_agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/agent_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/llm/local_llm_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory/faiss_memory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestration/agent_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_mvp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
-    </list>
+    <list default="true" id="46bf4b06-645c-461e-ace6-30a4ec282e7a" name="Changes" comment="mvp agentic ai" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,6 +163,27 @@
       <option name="presentableId" value="Default" />
       <updated>1747171388325</updated>
     </task>
+    <task id="LOCAL-00001" summary="mvp agentic ai">
+      <option name="closed" value="true" />
+      <created>1747222211772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747222211772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mvp agentic ai">
+      <option name="closed" value="true" />
+      <created>1747222220229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747222220229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mvp agentic ai" />
+    <option name="LAST_COMMIT_MESSAGE" value="mvp agentic ai" />
   </component>
 </project>
