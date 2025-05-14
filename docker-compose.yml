@@ -1,0 +1,9 @@
+version: '3'
+services:
+  agentic_mvp:
+    build: .
+    container_name: agentic_mvp
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"

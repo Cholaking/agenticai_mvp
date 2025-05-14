@@ -1,0 +1,34 @@
+# Agentic AI MVP - Requirements
+
+# LangGraph for multi-agent orchestration
+langgraph
+
+# LangChain for building agents (optional but recommended)
+langchain
+
+# Vector Store (FAISS)
+faiss-cpu
+
+# Hugging Face Transformers and Sentence Embeddings
+transformers
+sentence-transformers
+
+# Specific Embedding Model (Optional but ensures correct model download)
+sentence-transformers[all-MiniLM-L6-v2]
+
+# Local LLM Interfaces (Optional based on which LLM you run locally)
+gpt4all
+llama-cpp-python
+
+# Config and Logging Utilities
+pyyaml
+
+# Web Framework (For future API deployment if needed)
+fastapi
+uvicorn
+
+# Visualization and Dashboard (Optional)
+streamlit
+
+# Numerical and Utility Libraries
+numpy

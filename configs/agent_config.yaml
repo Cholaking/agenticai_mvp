@@ -1,0 +1,28 @@
+agents:
+  data_agents:
+    - name: "DataIngestionAgent"
+    - name: "DataCleaningAgent"
+    - name: "DataValidationAgent"
+    - name: "DataFormattingAgent"
+    - name: "DataStorageAgent"
+
+  knowledge_agents:
+    - name: "MemoryAgent"
+    - name: "RetrieverAgent"
+    - name: "EmbeddingAgent"
+    - name: "SearchAgent"
+    - name: "ContextBuilderAgent"
+
+  reasoning_agents:
+    - name: "PlannerAgent"
+    - name: "TaskDecomposerAgent"
+    - name: "DecisionMakerAgent"
+    - name: "EvaluatorAgent"
+    - name: "ReflectorAgent"
+
+  action_agents:
+    - name: "EmailAgent"
+    - name: "ReportGeneratorAgent"
+    - name: "NotifierAgent"
+    - name: "FeedbackCollectorAgent"
+    - name: "APICallerAgent"
