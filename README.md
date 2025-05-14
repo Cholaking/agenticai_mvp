@@ -45,7 +45,7 @@ This MVP demonstrates how different types of agents—each with a specialized ro
 
 ```bash
 # Clone the Repository
-git clone https://github.com/your-username/agentic_ai_mvp.git
+git clone https://github.com/Cholaking/agenticai_mvp.git
 cd agentic_ai_mvp
 
 # Install Dependencies
