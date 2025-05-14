@@ -53,4 +53,4 @@ pip install -r requirements.txt
 
 # Run the Application
 python main.py
-![image](https://github.com/user-attachments/assets/6d7c4e0b-98c9-464d-bd3b-fbf32b992305)
+
